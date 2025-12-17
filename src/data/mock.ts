@@ -17,12 +17,12 @@ export const personalInfo: PersonalInfo = {
     en: "Passionate web developer with expertise in full-stack development. I specialize in creating modern, scalable web applications for small and medium enterprises. With a strong foundation in Java Spring Boot and modern frontend frameworks, I deliver solutions that drive business growth.",
     id: "Web developer berpengalaman dengan keahlian dalam pengembangan full-stack. Saya mengkhususkan diri dalam membuat aplikasi web modern dan skalabel untuk usaha kecil dan menengah. Dengan fondasi kuat dalam Java Spring Boot dan framework frontend modern, saya memberikan solusi yang mendorong pertumbuhan bisnis."
   },
-  email: "muhamadyusup@example.com",
-  phone: "+62 812-3456-7890",
-  whatsapp: "6281234567890",
+  email: "muh.yusup965@gmail.com",
+  phone: "+62 851-6131-0317",
+  whatsapp: "6285161310317",
   location: {
-    en: "Jakarta, Indonesia",
-    id: "Jakarta, Indonesia"
+    en: "Bogor, Indonesia",
+    id: "Bogor, Indonesia"
   },
   social: {
     github: "https://github.com/yusup-dev",
@@ -100,7 +100,7 @@ export const experience: Experience[] = [
     en: "PT Tohjiwa Teknologi Indonesia",
     id: "PT Tohjiwa Teknologi Indonesia"
   },
-  period: "2025 - Present",
+  period: "2024 - 2025",
   description: {
     en: "Developed and maintained CMS platforms and marketing landing pages, ensuring performance, scalability, and content manageability. Collaborated with designers and stakeholders to deliver responsive and user-friendly web experiences.",
     id: "Mengembangkan dan memelihara platform CMS serta landing page marketing dengan fokus pada performa, skalabilitas, dan kemudahan pengelolaan konten. Berkolaborasi dengan desainer dan stakeholder untuk menghadirkan pengalaman web yang responsif dan ramah pengguna."
@@ -282,7 +282,7 @@ export const team: TeamMember[] = [
       en: "Founder & Lead Developer",
       id: "Founder & Lead Developer"
     },
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
     bio: {
       en: "Full-stack developer with 2+ years of experience in building scalable web applications.",
       id: "Full-stack developer dengan pengalaman 2+ tahun dalam membangun aplikasi web skalabel."
@@ -299,7 +299,7 @@ export const team: TeamMember[] = [
       en: "UI/UX Designer",
       id: "UI/UX Designer"
     },
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80",
+    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
     bio: {
       en: "Creative designer passionate about creating intuitive and beautiful user experiences.",
       id: "Designer kreatif yang bersemangat dalam menciptakan pengalaman pengguna yang intuitif dan indah."
@@ -316,7 +316,7 @@ export const team: TeamMember[] = [
       en: "Fullstack Developer",
       id: "Fullstack Developer"
     },
-    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
     bio: {
       en: "Backend specialist focused on building robust and secure server-side applications.",
       id: "Spesialis backend yang fokus pada membangun aplikasi server-side yang robust dan aman."
