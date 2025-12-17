@@ -25,9 +25,9 @@ export const personalInfo: PersonalInfo = {
     id: "Jakarta, Indonesia"
   },
   social: {
-    github: "https://github.com/muhamadyusup",
-    linkedin: "https://linkedin.com/in/muhamadyusup",
-    instagram: "https://instagram.com/muhamadyusup"
+    github: "https://github.com/yusup-dev",
+    linkedin: "https://linkedin.com/in/yusup-dev",
+    instagram: "https://instagram.com/yusup_dev"
   }
 };
 
@@ -46,11 +46,11 @@ export const education: Education[] = [
   {
     id: 1,
     degree: {
-      en: "Bachelor of Computer Science",
-      id: "Sarjana Ilmu Komputer"
+      en: "Bachelor of Engineering in Computer Science",
+      id: "Sarjana Teknik Informatika"
     },
-    institution: "Universitas Indonesia",
-    period: "2015 - 2019",
+    institution: "Universitas Ibn Khaldun Bogor",
+    period: "2022 - Present",
     description: {
       en: "Focused on software engineering and web development",
       id: "Fokus pada rekayasa perangkat lunak dan pengembangan web"
@@ -69,28 +69,43 @@ export const experience: Experience[] = [
       en: "Self-Employed",
       id: "Wiraswasta"
     },
-    period: "2020 - Present",
+    period: "2025 - Present",
     description: {
       en: "Developing custom web solutions for SMEs, including e-commerce platforms, company profiles, and business management systems.",
       id: "Mengembangkan solusi web kustom untuk UMKM, termasuk platform e-commerce, profil perusahaan, dan sistem manajemen bisnis."
     }
   },
   {
-    id: 2,
-    title: {
-      en: "Full Stack Developer",
-      id: "Full Stack Developer"
-    },
-    company: {
-      en: "PT Tech Solutions Indonesia",
-      id: "PT Tech Solutions Indonesia"
-    },
-    period: "2019 - 2020",
-    description: {
-      en: "Built and maintained enterprise web applications using Java Spring Boot and React. Collaborated with cross-functional teams to deliver high-quality software solutions.",
-      id: "Membangun dan memelihara aplikasi web enterprise menggunakan Java Spring Boot dan React. Berkolaborasi dengan tim lintas fungsi untuk memberikan solusi perangkat lunak berkualitas tinggi."
-    }
+  id: 2,
+  title: {
+    en: "Backend Developer",
+    id: "Backend Developer"
+  },
+  company: {
+    en: "PT Cranium Royal Aditama",
+    id: "PT Cranium Royal Aditama"
+  },
+  period: "2025 - Present",
+  description: {
+    en: "Developed and maintained enterprise applications for LMS BCA clients and internal ERP products using Java Spring Boot. Worked closely with cross-functional teams to deliver scalable and reliable software solutions.",
+    id: "Mengembangkan dan memelihara aplikasi enterprise untuk klien LMS BCA serta produk ERP internal menggunakan Java Spring Boot. Bekerja sama dengan tim lintas fungsi untuk menghasilkan solusi perangkat lunak yang scalable dan andal."
+  },
+},{
+  id: 2,
+  title: {
+    en: "Fullstack Developer",
+    id: "Fullstack Developer"
+  },
+  company: {
+    en: "PT Tohjiwa Teknologi Indonesia",
+    id: "PT Tohjiwa Teknologi Indonesia"
+  },
+  period: "2025 - Present",
+  description: {
+    en: "Developed and maintained CMS platforms and marketing landing pages, ensuring performance, scalability, and content manageability. Collaborated with designers and stakeholders to deliver responsive and user-friendly web experiences.",
+    id: "Mengembangkan dan memelihara platform CMS serta landing page marketing dengan fokus pada performa, skalabilitas, dan kemudahan pengelolaan konten. Berkolaborasi dengan desainer dan stakeholder untuk menghadirkan pengalaman web yang responsif dan ramah pengguna."
   }
+}
 ];
 
 export const services: Service[] = [
@@ -269,17 +284,17 @@ export const team: TeamMember[] = [
     },
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
     bio: {
-      en: "Full-stack developer with 5+ years of experience in building scalable web applications.",
-      id: "Full-stack developer dengan pengalaman 5+ tahun dalam membangun aplikasi web skalabel."
+      en: "Full-stack developer with 2+ years of experience in building scalable web applications.",
+      id: "Full-stack developer dengan pengalaman 2+ tahun dalam membangun aplikasi web skalabel."
     },
     social: {
-      linkedin: "https://linkedin.com/in/muhamadyusup",
-      github: "https://github.com/muhamadyusup"
+      linkedin: "https://linkedin.com/in/yusup-dev",
+      github: "https://github.com/yusup-dev"
     }
   },
   {
     id: 2,
-    name: "Sarah Wijaya",
+    name: "Siti Nur Halimah",
     role: {
       en: "UI/UX Designer",
       id: "UI/UX Designer"
@@ -296,10 +311,10 @@ export const team: TeamMember[] = [
   },
   {
     id: 3,
-    name: "Ahmad Rizki",
+    name: "Muhamad Yopan Ramadhan",
     role: {
-      en: "Backend Developer",
-      id: "Backend Developer"
+      en: "Fullstack Developer",
+      id: "Fullstack Developer"
     },
     image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
     bio: {
